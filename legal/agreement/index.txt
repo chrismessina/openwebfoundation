@@ -175,3 +175,9 @@ under this Agreement as the Bound Entity.
 
 
                 Date: _______________
+
+
+--------------------------------------------------------------------------------
+
+This Agreement is made available by the Open Web Foundation under the
+posted [Terms and Conditions](http://openwebfoundation.org/legal/notice/).
