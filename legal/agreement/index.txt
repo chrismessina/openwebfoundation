@@ -151,6 +151,8 @@ requires me to undertake a patent search.
     Agreement, and any person or entity you Control.
 
 
+--------------------------------------------------------------------------------
+
 Signing Instructions
 --------------------
 
@@ -165,6 +167,10 @@ under this Agreement as the Bound Entity.
 
 
                   By: _______________________________  _________________________
+                      (Full Name)                      (Authorized Signature)
+
+
+                      _______________________________  _________________________
                       (Full Name)                      (Authorized Signature)
 
 
