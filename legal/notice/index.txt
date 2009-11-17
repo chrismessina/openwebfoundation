@@ -1,0 +1,33 @@
+Open Web Foundation Notice and Disclaimer
+-----------------------------------------
+
+1. _Notice and Disclaimer._ Open Web Foundation is not a party to
+this Agreement and makes no warranties (express, implied, or
+otherwise), including implied warranties of merchantability,
+non-infringement, fitness for a particular purpose, or title,
+related to the Specification.  The entire risk as to implementing or
+otherwise using the Specification is assumed by the Specification
+implementer and user.  IN NO EVENT WILL OPEN WEB FOUNDATION BE
+LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT,
+SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM
+ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THIS AGREEMENT,
+WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR
+OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.  Notwithstanding the foregoing, if
+Open Web Foundation has expressly identified itself being bound to
+this Agreement, it will have all rights and obligations under the
+Agreement.
+
+2. _Trademark._ Except for the limited purpose of indicating to the
+public that the Specification is licensed under an Open Web
+Foundation agreement, Open Web Foundation does not authorize the use
+by any party of the trademark "Open Web Foundation" or any related
+Open Web Foundation trademark or logo without the prior written
+consent of Open Web Foundation. Any permitted use will be in
+compliance with Open Web Foundation's then-current trademark usage
+guidelines, as may be published on its website or otherwise made
+available upon request from time to time.
+
+3. _Copyright._ The Open Web Foundation makes this Agreement
+available under the [Creative Commons Attribution 3.0
+License](http://creativecommons.org/licenses/by/3.0/us/).
